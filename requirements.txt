@@ -6,3 +6,4 @@ sklearn
 flask_restplus
 flask_api
 werkzeug
+cached_property
