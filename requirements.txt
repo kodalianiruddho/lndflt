@@ -1,4 +1,7 @@
 Flask
 Flask-RESTful
-Flask-SQLAlchemy
 uwsgi
+gunicorn
+sklearn
+flask_restplus
+flask_api
