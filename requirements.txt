@@ -5,3 +5,4 @@ gunicorn
 sklearn
 flask_restplus
 flask_api
+werkzeug
